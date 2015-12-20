@@ -10,7 +10,7 @@ namespace LastHitSharp
 {
     internal class Program
     {
-        private const Key toggleKey = Key.G;
+        private const Key toggleKey = Key.K;
         private static bool active = true;
         private static bool Jinada;
         private static bool TideBringer;
